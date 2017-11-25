@@ -1,0 +1,30 @@
+.ashe,.lucian,.tristana,.vayne{
+	background-color: white;
+}
+div.box img{
+	width: 80%;
+	height: 80%;
+	padding-left: 10%;
+}
+div.box{
+	border:2.5px solid green;
+	width: 260px;
+	height: 210px;
+	display: inline-block;
+}
+div.name,div.damage{
+	text-align: center;
+}
+div.block{
+	vertical-align: top;
+}
+.userchmp{
+	padding-bottom: 200px;
+}
+.tmpEnemie{
+	background-color: red;
+}
+.defd{
+	color:white;
+	background-color: black;
+}
